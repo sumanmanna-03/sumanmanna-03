@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Suman Manna
+- ✨ I am pursuing Btech(CSE) . I am 1 st year student.
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning ...c ,c++,Python,Java
 - 💞️ I’m looking to collaborate on ... Open Source
