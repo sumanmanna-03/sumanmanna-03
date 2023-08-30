@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sumanmanna-03
+- 👋 Hi, I’m Suman Manna
 - 👀 I’m interested in ... Web Development
 - 🌱 I’m currently learning ...c ,c++,Python,Java
 - 💞️ I’m looking to collaborate on ... Open Source
